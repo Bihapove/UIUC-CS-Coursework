@@ -1,1 +1,1 @@
-Some final projects at UIUC CS
+Some class projects at UIUC CS
