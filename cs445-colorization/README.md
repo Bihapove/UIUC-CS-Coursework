@@ -1,3 +1,5 @@
+This is a copy of CS 445 Final Group Project
+
 # cs445-colorization
 
 The main.ipynb file contains the Jupyter notebook to run our project including training and evaluation..
